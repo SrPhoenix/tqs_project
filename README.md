@@ -2,13 +2,15 @@
 tqs_project
 Theme: book deliveries
 
+
+# roles
 Vicente: Product Owner
 Miguel: QA Engeneering
 Borges: Team Leader
 Vasco: DevOps
 
 
-## Arquitecture
+# Arquitecture
 
 framework: spring  
 Frontend : React Native/ angular
